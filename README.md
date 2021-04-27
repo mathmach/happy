@@ -23,7 +23,7 @@
 
 ## :bookmark: Sobre
 
-O **happy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+O **happy** é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz
   
 Essa aplicação foi realizada durante a **Next Level Week #3**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
